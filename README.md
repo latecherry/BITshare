@@ -1,10 +1,10 @@
 # BITshare
 
-This repository contains the `frontend` and `backend` for the BIT Yanhe course tool.
+BITshare is a web-based BIT Yanhe course workspace built from the current `frontend` and `backend`.
 
 ## Structure
 
-- `frontend`: Vue + Vite web app
+- `frontend`: Vue + Vite web application
 - `backend`: Node.js API service
 
 ## Local development
@@ -25,7 +25,14 @@ npm install
 npm run dev
 ```
 
+## References
+
+- `/bit-admin/Yanhekt-AutoSlides`
+- `/bit-admin/Yanhe-Web`
+- `/AuYang261/BIT_yanhe_download`
+
 ## Notes
 
 - The frontend depends on the backend API.
-- GitHub itself can host the source code, but it cannot directly run this full project because the backend service still needs to be deployed on a server.
+- GitHub can host the source code, but it cannot directly run the full project because the backend still needs to be deployed on a server.
+- License references are aligned with the repository `LICENSE` and the related upstream projects listed above.
