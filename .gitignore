@@ -1,0 +1,14 @@
+backend/node_modules/
+backend/downloads/
+frontend/node_modules/
+frontend/dist/
+frontend/.vscode/
+
+BIT_yanhe_download/
+Yanhekt-AutoSlides/
+download.zip
+start.bat
+
+.DS_Store
+Thumbs.db
+*.log
